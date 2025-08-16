@@ -71,6 +71,7 @@ You can enter `fun_meme_bot/0.1 by u/YourRedditUsername` in USER_AGENT Field.
 -    **Copy** your bot token.
 -   **Paste** it into the `TOKEN` field in your `config.yml`.
 -   __**Make sure to enable all Gateway Intents from the bot tab.**__
+  ![image_2024-12-06_181240534](https://github.com/user-attachments/assets/7c16144f-1507-4919-a406-01c290310b54)
 ### Running the Bot
 Once configured:
 ```bash
