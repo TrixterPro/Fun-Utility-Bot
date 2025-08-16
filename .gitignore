@@ -1,0 +1,8 @@
+/Logs
+/utils/__pycache__
+/cogs/__pycache__
+/.vscode
+/.vscode/coding-times.db
+/config.yml
+/utils/Handlers/__pycache__
+/test.py
